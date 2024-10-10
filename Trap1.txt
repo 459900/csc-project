@@ -1,0 +1,4 @@
+OUCH!!
+one of the floorboards you stepped on was a trap! it gave way to spikes that dug into your foot.
+
+- 25 hp
